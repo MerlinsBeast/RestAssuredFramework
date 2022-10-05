@@ -1,10 +1,10 @@
 21:01
 
-Create Maven Project with Cucumber and Rest Assured Dependencies
-Define Project Structure with Cucumber Framework Setup
-Create Feature file with Testcases you want to automate
-Implement Smart Step definition files with supported code
-Build Utils File to define all reusable request and response specifications
+1. Create Maven Project with Cucumber and Rest Assured Dependencies
+2. Define Project Structure with Cucumber Framework Setup
+3. Create Feature file with Testcases you want to automate
+4. Implement Smart Step definition files with supported code
+5. Build Utils File to define all reusable request and response specifications
 Build POJO Classes for Serializing and De-serializing JSON payload
 Implement Logging mechanism into framework to log request and response details.
 Develop E2E functionality Test with all validations and Assertions

@@ -1,0 +1,20 @@
+21:01
+
+Create Maven Project with Cucumber and Rest Assured Dependencies
+Define Project Structure with Cucumber Framework Setup
+Create Feature file with Testcases you want to automate
+Implement Smart Step definition files with supported code
+Build Utils File to define all reusable request and response specifications
+Build POJO Classes for Serializing and De-serializing JSON payload
+Implement Logging mechanism into framework to log request and response details.
+Develop E2E functionality Test with all validations and Assertions
+Define global properties and drive all the global variables from properties file
+Define ENUM classes with constants to centralize all resources details
+Implement Data driven mechanism to drive data dynamically from feature file
+Implement Parameterization to run tests with multiple data sets using Cucumber Example keyword
+Add more tests and implement tagging mechanism to run selected tests from the test runner file
+Implementing pre and post conditions for tests with cucumber hooks
+Execute complete framework from maven commands
+Implement maven driven global values into tests for dynamic executions
+Generate reports for test execution results
+Integrate framework into JENKINS CICD tools

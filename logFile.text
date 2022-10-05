@@ -1,0 +1,200 @@
+Request method:	POST
+Request URI:	https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "accuracy": 95.0,
+    "name": "Vijay Yadav",
+    "phone_number": "8689946239",
+    "address": "Prasan Niwas",
+    "website": "NULLfortesting",
+    "language": "Hindi",
+    "location": {
+        "lat": 23.0,
+        "lng": 43.0
+    },
+    "types": [
+        "showPark",
+        "shop"
+    ]
+}
+HTTP/1.1 200 OK
+Date: Wed, 05 Oct 2022 20:27:15 GMT
+Server: Apache/2.4.41 (Ubuntu)
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: POST
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Headers: Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With
+Content-Length: 194
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: application/json;charset=UTF-8
+
+{
+    "status": "OK",
+    "place_id": "22d3dc100e183f407b3756ce3718720a",
+    "scope": "APP",
+    "reference": "3a53e9195751402482864eac2930ac943a53e9195751402482864eac2930ac94",
+    "id": "3a53e9195751402482864eac2930ac94"
+}
+Request method:	GET
+Request URI:	https://rahulshettyacademy.com/maps/api/place/get/json?key=qaclick123&place_id=22d3dc100e183f407b3756ce3718720a
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+				place_id=22d3dc100e183f407b3756ce3718720a
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Date: Wed, 05 Oct 2022 20:27:16 GMT
+Server: Apache/2.4.41 (Ubuntu)
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: POST
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Headers: Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With
+Content-Length: 207
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: application/json;charset=UTF-8
+
+{
+    "location": {
+        "latitude": "23",
+        "longitude": "43"
+    },
+    "accuracy": "95",
+    "name": "Vijay Yadav",
+    "phone_number": "8689946239",
+    "address": "Prasan Niwas",
+    "types": "showPark,shop",
+    "website": "NULLfortesting",
+    "language": "Hindi"
+}
+Request method:	POST
+Request URI:	https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "accuracy": 95.0,
+    "name": "Ajay Yadav",
+    "phone_number": "8689946238",
+    "address": "Runwal Gardens",
+    "website": "NULLfortesting",
+    "language": "English",
+    "location": {
+        "lat": 23.0,
+        "lng": 43.0
+    },
+    "types": [
+        "showPark",
+        "shop"
+    ]
+}
+HTTP/1.1 200 OK
+Date: Wed, 05 Oct 2022 20:27:16 GMT
+Server: Apache/2.4.41 (Ubuntu)
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: POST
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Headers: Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With
+Content-Length: 194
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: application/json;charset=UTF-8
+
+{
+    "status": "OK",
+    "place_id": "3443c5977d4c4dd6815346f0d4c30903",
+    "scope": "APP",
+    "reference": "e4a354af397060c3170827981ed09f49e4a354af397060c3170827981ed09f49",
+    "id": "e4a354af397060c3170827981ed09f49"
+}
+Request method:	GET
+Request URI:	https://rahulshettyacademy.com/maps/api/place/get/json?key=qaclick123&place_id=3443c5977d4c4dd6815346f0d4c30903
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+				place_id=3443c5977d4c4dd6815346f0d4c30903
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Date: Wed, 05 Oct 2022 20:27:16 GMT
+Server: Apache/2.4.41 (Ubuntu)
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: POST
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Headers: Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With
+Content-Length: 210
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: application/json;charset=UTF-8
+
+{
+    "location": {
+        "latitude": "23",
+        "longitude": "43"
+    },
+    "accuracy": "95",
+    "name": "Ajay Yadav",
+    "phone_number": "8689946238",
+    "address": "Runwal Gardens",
+    "types": "showPark,shop",
+    "website": "NULLfortesting",
+    "language": "English"
+}
+Request method:	POST
+Request URI:	https://rahulshettyacademy.com/maps/api/place/delete/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "place_id": "3443c5977d4c4dd6815346f0d4c30903"
+}
+HTTP/1.1 200 OK
+Date: Wed, 05 Oct 2022 20:27:16 GMT
+Server: Apache/2.4.41 (Ubuntu)
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: POST
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Headers: Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With
+Content-Length: 15
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: application/json;charset=UTF-8
+
+{
+    "status": "OK"
+}
